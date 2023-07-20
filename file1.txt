@@ -1,2 +1,4 @@
 this is text file1
-this is another chnage
+this is another chnage1
+change2
+change3
